@@ -1,4 +1,4 @@
-# Starting with Node.JS
+# Starting with Node.JS 🌲
 
 Hello guys, the motivation in this repository is help you how you can start on a application with Node.JS and show you how simple is starting with Node.JS
 
@@ -37,6 +37,6 @@ After install Node.JS and Postman you need setup your repository.
   GET - http://localhost:3000
 ```
 
-THCHCHRARAN, you have your Hello World if everything is fine!
+🎉🎉🎉 You have your Hello World if everything is fine! 🎉🎉🎉
 
 For starting with exercicies, check the file EXERCICIES.md
