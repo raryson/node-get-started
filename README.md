@@ -39,4 +39,4 @@ After install Node.JS and Postman you need setup your repository.
 
 🎉🎉🎉 You have your Hello World if everything is fine! 🎉🎉🎉
 
-For starting with exercicies, check the file EXERCICIES.md
+[For starting with exercicies, click here 🔴](EXERCICIES.md)
